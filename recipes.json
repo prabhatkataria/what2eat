@@ -1312,5 +1312,95 @@
     "ingredients": ["semolina", "ghee", "sugar", "saffron", "nuts"],
     "weather_suitability": ["any"],
     "tags": ["sweet", "pudding", "karnataka"]
+  },
+  {
+    "id": 147,
+    "name": "Mac and Cheese",
+    "cuisine": "American",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["macaroni", "cheese", "milk", "butter"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["comfort food", "classic", "cheesy"]
+  },
+  {
+    "id": 148,
+    "name": "Veggie Burger",
+    "cuisine": "American",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["veggie patty", "burger bun", "lettuce", "tomato", "onion"],
+    "weather_suitability": ["any"],
+    "tags": ["fast food", "burger", "vegetarian"]
+  },
+  {
+    "id": 149,
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "meal_type": ["lunch", "snack"],
+    "ingredients": ["bread", "cheese", "butter"],
+    "weather_suitability": ["any"],
+    "tags": ["comfort food", "simple", "quick"]
+  },
+  {
+    "id": 150,
+    "name": "French Fries",
+    "cuisine": "American",
+    "meal_type": ["snack", "side dish"],
+    "ingredients": ["potato", "oil"],
+    "weather_suitability": ["any"],
+    "tags": ["fast food", "fried", "side"]
+  },
+  {
+    "id": 151,
+    "name": "Onion Rings",
+    "cuisine": "American",
+    "meal_type": ["snack", "appetizer"],
+    "ingredients": ["onion", "flour", "breadcrumbs"],
+    "weather_suitability": ["any"],
+    "tags": ["fried", "appetizer", "crispy"]
+  },
+  {
+    "id": 152,
+    "name": "Coleslaw",
+    "cuisine": "American",
+    "meal_type": ["side dish"],
+    "ingredients": ["cabbage", "carrot", "mayonnaise", "vinegar"],
+    "weather_suitability": ["hot", "any"],
+    "tags": ["salad", "cooling", "side"]
+  },
+  {
+    "id": 153,
+    "name": "Pancakes",
+    "cuisine": "American",
+    "meal_type": ["breakfast"],
+    "ingredients": ["flour", "milk", "eggs", "baking powder", "syrup"],
+    "weather_suitability": ["any"],
+    "tags": ["breakfast", "sweet", "fluffy"]
+  },
+  {
+    "id": 154,
+    "name": "Waffles",
+    "cuisine": "American",
+    "meal_type": ["breakfast"],
+    "ingredients": ["flour", "milk", "eggs", "baking powder", "syrup"],
+    "weather_suitability": ["any"],
+    "tags": ["breakfast", "sweet", "crispy"]
+  },
+  {
+    "id": 155,
+    "name": "Cornbread",
+    "cuisine": "American",
+    "meal_type": ["side dish"],
+    "ingredients": ["cornmeal", "flour", "buttermilk", "eggs"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "southern", "baking"]
+  },
+  {
+    "id": 156,
+    "name": "Vegetable Pot Pie",
+    "cuisine": "American",
+    "meal_type": ["dinner"],
+    "ingredients": ["mixed vegetables", "pie crust", "cream sauce"],
+    "weather_suitability": ["cold"],
+    "tags": ["comfort food", "baking", "hearty"]
   }
 ]
