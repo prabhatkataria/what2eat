@@ -1,0 +1,1316 @@
+[
+  {
+    "id": 1,
+    "name": "Masala Dosa",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["rice", "lentils", "potato", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["classic", "savory"]
+  },
+  {
+    "id": 2,
+    "name": "Paneer Butter Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["paneer", "tomato", "onion", "butter", "cream"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "creamy"]
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Pulao",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["rice", "mixed vegetables", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["one-pot", "quick"]
+  },
+  {
+    "id": 4,
+    "name": "Idli Sambar",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast"],
+    "ingredients": ["rice", "lentils", "mixed vegetables"],
+    "weather_suitability": ["any"],
+    "tags": ["healthy", "steamed"]
+  },
+  {
+    "id": 5,
+    "name": "Tomato Soup",
+    "cuisine": "International",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["tomato", "cream", "herbs"],
+    "weather_suitability": ["cold", "rainy"],
+    "tags": ["comfort food", "warm"]
+  },
+  {
+    "id": 6,
+    "name": "Chana Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["chickpeas", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["curry", "spicy"]
+  },
+  {
+    "id": 7,
+    "name": "Dal Makhani",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["black lentils", "kidney beans", "butter", "cream"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["rich", "creamy", "comfort food"]
+  },
+  {
+    "id": 8,
+    "name": "Aloo Gobi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["potato", "cauliflower", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["dry curry", "classic"]
+  },
+  {
+    "id": 9,
+    "name": "Malai Kofta",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "potato", "cream", "tomato", "nuts"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "creamy", "special occasion"]
+  },
+  {
+    "id": 10,
+    "name": "Palak Paneer",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["healthy", "curry", "leafy greens"]
+  },
+  {
+    "id": 11,
+    "name": "Kadai Paneer",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["paneer", "bell peppers", "onion", "tomato", "kadai masala"],
+    "weather_suitability": ["any"],
+    "tags": ["spicy", "semi-dry", "restaurant style"]
+  },
+  {
+    "id": 12,
+    "name": "Shahi Paneer",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "cashews", "cream", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "creamy", "mughlai", "mild"]
+  },
+  {
+    "id": 13,
+    "name": "Matar Paneer",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["paneer", "peas", "tomato", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["curry", "classic", "homestyle"]
+  },
+  {
+    "id": 14,
+    "name": "Paneer Tikka Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "yogurt", "tomato", "onion", "tandoori masala"],
+    "weather_suitability": ["any"],
+    "tags": ["restaurant style", "rich", "smoky"]
+  },
+  {
+    "id": 15,
+    "name": "Dal Tadka",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["toor dal", "onion", "tomato", "garlic", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["lentils", "staple", "comfort food"]
+  },
+  {
+    "id": 16,
+    "name": "Dal Fry",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["toor dal", "chana dal", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["lentils", "dhaba style", "staple"]
+  },
+  {
+    "id": 17,
+    "name": "Rajma Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["kidney beans", "onion", "tomato", "spices"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["curry", "punjabi", "comfort food"]
+  },
+  {
+    "id": 18,
+    "name": "Baingan Bharta",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["eggplant", "onion", "tomato", "peas", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["smoky", "punjabi", "roasted"]
+  },
+  {
+    "id": 19,
+    "name": "Dum Aloo",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["baby potatoes", "yogurt", "cashews", "spices"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["rich", "curry", "kashmiri"]
+  },
+  {
+    "id": 20,
+    "name": "Navratan Korma",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["mixed vegetables", "paneer", "nuts", "cream", "fruits"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "creamy", "mild", "mughlai"]
+  },
+  {
+    "id": 21,
+    "name": "Vegetable Korma",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mixed vegetables", "coconut", "cashews", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["creamy", "mild", "curry"]
+  },
+  {
+    "id": 22,
+    "name": "Bhindi Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["okra", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["semi-dry", "homestyle", "stir-fry"]
+  },
+  {
+    "id": 23,
+    "name": "Gajar Ka Halwa",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["carrots", "milk", "sugar", "ghee", "nuts"],
+    "weather_suitability": ["cold"],
+    "tags": ["sweet", "winter", "classic"]
+  },
+  {
+    "id": 24,
+    "name": "Samosa",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["potato", "peas", "flour", "spices"],
+    "weather_suitability": ["rainy", "any"],
+    "tags": ["fried", "street food", "savory"]
+  },
+  {
+    "id": 25,
+    "name": "Aloo Tikki",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["potato", "lentils", "spices", "yogurt", "chutney"],
+    "weather_suitability": ["any"],
+    "tags": ["street food", "chaat", "pan-fried"]
+  },
+  {
+    "id": 26,
+    "name": "Pakora",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["gram flour", "onion", "potato", "spinach"],
+    "weather_suitability": ["rainy", "cold"],
+    "tags": ["fried", "fritters", "monsoon"]
+  },
+  {
+    "id": 27,
+    "name": "Dahi Vada",
+    "cuisine": "North Indian",
+    "meal_type": ["snack", "appetizer"],
+    "ingredients": ["urad dal", "yogurt", "spices", "chutney"],
+    "weather_suitability": ["hot"],
+    "tags": ["cooling", "soft", "festival food"]
+  },
+  {
+    "id": 28,
+    "name": "Pav Bhaji",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner", "snack"],
+    "ingredients": ["mixed vegetables", "potato", "tomato", "pav bhaji masala", "bread rolls"],
+    "weather_suitability": ["any"],
+    "tags": ["street food", "buttery", "one-pot"]
+  },
+  {
+    "id": 29,
+    "name": "Sarson ka Saag",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mustard greens", "spinach", "bathua", "cornmeal", "ghee"],
+    "weather_suitability": ["cold"],
+    "tags": ["punjabi", "winter", "healthy", "leafy greens"]
+  },
+  {
+    "id": 30,
+    "name": "Vegetable Biryani",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["basmati rice", "mixed vegetables", "yogurt", "biryani masala"],
+    "weather_suitability": ["any"],
+    "tags": ["one-pot", "fragrant", "special occasion"]
+  },
+  {
+    "id": 31,
+    "name": "Naan",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["flour", "yogurt", "yeast"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "tandoor", "restaurant style"]
+  },
+  {
+    "id": 32,
+    "name": "Aloo Paratha",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["whole wheat flour", "potato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "stuffed", "punjabi", "breakfast"]
+  },
+  {
+    "id": 33,
+    "name": "Chole Bhature",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["chickpeas", "flour", "yogurt", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["punjabi", "fried bread", "heavy"]
+  },
+  {
+    "id": 34,
+    "name": "Paneer Bhurji",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["paneer", "onion", "tomato", "bell peppers", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["scrambled", "quick", "semi-dry"]
+  },
+  {
+    "id": 35,
+    "name": "Methi Matar Malai",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["fenugreek leaves", "peas", "cream", "cashews"],
+    "weather_suitability": ["cold"],
+    "tags": ["rich", "creamy", "mildly bitter"]
+  },
+  {
+    "id": 36,
+    "name": "Veg Kolhapuri",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mixed vegetables", "coconut", "kolhapuri masala"],
+    "weather_suitability": ["any"],
+    "tags": ["spicy", "maharashtrian", "curry"]
+  },
+  {
+    "id": 37,
+    "name": "Veg Jalfrezi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mixed vegetables", "bell peppers", "tomato", "onion"],
+    "weather_suitability": ["any"],
+    "tags": ["stir-fry", "tangy", "semi-dry"]
+  },
+  {
+    "id": 38,
+    "name": "Paneer Lababdar",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "tomato", "cashews", "cream", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "restaurant style", "creamy"]
+  },
+  {
+    "id": 39,
+    "name": "Aloo Matar",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["potato", "peas", "tomato", "onion"],
+    "weather_suitability": ["any"],
+    "tags": ["homestyle", "curry", "simple"]
+  },
+  {
+    "id": 40,
+    "name": "Aloo Palak",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["potato", "spinach", "garlic", "spices"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["healthy", "leafy greens", "dry curry"]
+  },
+  {
+    "id": 41,
+    "name": "Jeera Aloo",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["potato", "cumin seeds", "turmeric", "herbs"],
+    "weather_suitability": ["any"],
+    "tags": ["quick", "dry curry", "travel food"]
+  },
+  {
+    "id": 42,
+    "name": "Gatte ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["gram flour", "yogurt", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["rajasthani", "curry", "no-vegetable"]
+  },
+  {
+    "id": 43,
+    "name": "Kadhi Pakora",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["gram flour", "yogurt", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["punjabi", "sour", "comfort food"]
+  },
+  {
+    "id": 44,
+    "name": "Amritsari Kulcha",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["flour", "potato", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "stuffed", "punjabi"]
+  },
+  {
+    "id": 45,
+    "name": "Kashmiri Dum Aloo",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["baby potatoes", "yogurt", "fennel powder", "ginger powder"],
+    "weather_suitability": ["cold"],
+    "tags": ["kashmiri", "no onion no garlic", "rich"]
+  },
+  {
+    "id": 46,
+    "name": "Lauki Kofta",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["bottle gourd", "gram flour", "tomato", "onion"],
+    "weather_suitability": ["any"],
+    "tags": ["kofta", "curry", "homestyle"]
+  },
+  {
+    "id": 47,
+    "name": "Mushroom Matar",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mushroom", "peas", "onion", "tomato"],
+    "weather_suitability": ["any"],
+    "tags": ["curry", "quick", "homestyle"]
+  },
+  {
+    "id": 48,
+    "name": "Paneer Do Pyaza",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["paneer", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["restaurant style", "semi-dry", "onion"]
+  },
+  {
+    "id": 49,
+    "name": "Papad ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["papad", "yogurt", "tomato", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["rajasthani", "quick", "no-vegetable"]
+  },
+  {
+    "id": 50,
+    "name": "Moong Dal Cheela",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "snack"],
+    "ingredients": ["moong dal", "onion", "ginger", "chilli"],
+    "weather_suitability": ["any"],
+    "tags": ["healthy", "pancake", "protein-rich"]
+  },
+  {
+    "id": 51,
+    "name": "Besan Cheela",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "snack"],
+    "ingredients": ["gram flour", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["quick", "pancake", "savory"]
+  },
+  {
+    "id": 52,
+    "name": "Bread Pakora",
+    "cuisine": "North Indian",
+    "meal_type": ["snack", "breakfast"],
+    "ingredients": ["bread", "potato", "gram flour", "spices"],
+    "weather_suitability": ["rainy", "cold"],
+    "tags": ["fried", "street food", "monsoon"]
+  },
+  {
+    "id": 53,
+    "name": "Mirchi Vada",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["large green chillies", "potato", "gram flour"],
+    "weather_suitability": ["rainy", "cold"],
+    "tags": ["rajasthani", "spicy", "fried"]
+  },
+  {
+    "id": 54,
+    "name": "Kachori",
+    "cuisine": "North Indian",
+    "meal_type": ["snack", "breakfast"],
+    "ingredients": ["flour", "moong dal", "urad dal", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["fried", "street food", "flaky"]
+  },
+  {
+    "id": 55,
+    "name": "Stuffed Capsicum",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["bell peppers", "potato", "paneer", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["stuffed", "dry curry", "homestyle"]
+  },
+  {
+    "id": 56,
+    "name": "Kurkuri Bhindi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "appetizer"],
+    "ingredients": ["okra", "gram flour", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["crispy", "fried", "side dish"]
+  },
+  {
+    "id": 57,
+    "name": "Vegetable Raita",
+    "cuisine": "North Indian",
+    "meal_type": ["side dish"],
+    "ingredients": ["yogurt", "cucumber", "tomato", "onion"],
+    "weather_suitability": ["hot"],
+    "tags": ["cooling", "accompaniment", "healthy"]
+  },
+  {
+    "id": 58,
+    "name": "Boondi Raita",
+    "cuisine": "North Indian",
+    "meal_type": ["side dish"],
+    "ingredients": ["yogurt", "boondi", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["cooling", "accompaniment", "quick"]
+  },
+  {
+    "id": 59,
+    "name": "Kheer",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["rice", "milk", "sugar", "nuts", "cardamom"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "pudding", "festival food"]
+  },
+  {
+    "id": 60,
+    "name": "Phirni",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["rice flour", "milk", "sugar", "nuts", "saffron"],
+    "weather_suitability": ["hot", "any"],
+    "tags": ["sweet", "pudding", "mughlai", "chilled"]
+  },
+  {
+    "id": 61,
+    "name": "Gulab Jamun",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["milk powder", "flour", "sugar", "cardamom"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "fried", "syrupy", "festival food"]
+  },
+  {
+    "id": 62,
+    "name": "Jalebi",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert", "snack"],
+    "ingredients": ["flour", "yogurt", "sugar", "saffron"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "crispy", "syrupy", "street food"]
+  },
+  {
+    "id": 63,
+    "name": "Moong Dal Halwa",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["moong dal", "ghee", "sugar", "milk", "nuts"],
+    "weather_suitability": ["cold"],
+    "tags": ["rich", "sweet", "winter", "rajasthani"]
+  },
+  {
+    "id": 64,
+    "name": "Sooji Halwa",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert", "breakfast"],
+    "ingredients": ["semolina", "ghee", "sugar", "nuts"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "quick", "pudding", "prasad"]
+  },
+  {
+    "id": 65,
+    "name": "Lassi",
+    "cuisine": "North Indian",
+    "meal_type": ["drink"],
+    "ingredients": ["yogurt", "milk", "sugar", "cardamom"],
+    "weather_suitability": ["hot"],
+    "tags": ["cooling", "beverage", "punjabi"]
+  },
+  {
+    "id": 66,
+    "name": "Tinda Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["apple gourd", "onion", "tomato", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["homestyle", "curry", "healthy"]
+  },
+  {
+    "id": 67,
+    "name": "Kathal ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["jackfruit", "onion", "tomato", "garlic", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["curry", "meaty texture", "unique"]
+  },
+  {
+    "id": 68,
+    "name": "Arbi ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["taro root", "ajwain", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["dry curry", "homestyle", "simple"]
+  },
+  {
+    "id": 69,
+    "name": "Stuffed Tomato",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["tomato", "potato", "paneer", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["stuffed", "tangy", "curry"]
+  },
+  {
+    "id": 70,
+    "name": "Besan Shimla Mirch",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["bell peppers", "gram flour", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["quick", "dry curry", "rajasthani"]
+  },
+  {
+    "id": 71,
+    "name": "Dahi Bhindi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["okra", "yogurt", "gram flour", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["curry", "tangy", "creamy"]
+  },
+  {
+    "id": 72,
+    "name": "Aloo Badiyan",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["potato", "sun-dried lentil dumplings", "tomato"],
+    "weather_suitability": ["any"],
+    "tags": ["punjabi", "curry", "traditional"]
+  },
+  {
+    "id": 73,
+    "name": "Gobi Paratha",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["whole wheat flour", "cauliflower", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "stuffed", "punjabi"]
+  },
+  {
+    "id": 74,
+    "name": "Mooli Paratha",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["whole wheat flour", "radish", "spices"],
+    "weather_suitability": ["cold"],
+    "tags": ["bread", "stuffed", "winter"]
+  },
+  {
+    "id": 75,
+    "name": "Puri",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch", "dinner"],
+    "ingredients": ["whole wheat flour"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "fried", "puffy"]
+  },
+  {
+    "id": 76,
+    "name": "Bedmi Puri",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast"],
+    "ingredients": ["whole wheat flour", "urad dal", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "fried", "stuffed", "delhi style"]
+  },
+  {
+    "id": 77,
+    "name": "Ram Ladoo",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["moong dal", "radish", "chutney"],
+    "weather_suitability": ["any"],
+    "tags": ["street food", "delhi style", "fried"]
+  },
+  {
+    "id": 78,
+    "name": "Kanji Vada",
+    "cuisine": "North Indian",
+    "meal_type": ["appetizer", "drink"],
+    "ingredients": ["moong dal", "mustard seeds", "water"],
+    "weather_suitability": ["hot"],
+    "tags": ["fermented", "probiotic", "cooling"]
+  },
+  {
+    "id": 79,
+    "name": "Paneer Pakora",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["paneer", "gram flour", "spices"],
+    "weather_suitability": ["rainy", "cold"],
+    "tags": ["fried", "monsoon", "appetizer"]
+  },
+  {
+    "id": 80,
+    "name": "Singhare ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["water chestnuts", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["fasting food", "vrat", "curry"]
+  },
+  {
+    "id": 81,
+    "name": "Karela Bharta",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["bitter gourd", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["healthy", "bitter", "stir-fry"]
+  },
+  {
+    "id": 82,
+    "name": "Stuffed Karela",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["bitter gourd", "onion", "fennel seeds", "raw mango"],
+    "weather_suitability": ["any"],
+    "tags": ["stuffed", "bitter", "tangy"]
+  },
+  {
+    "id": 83,
+    "name": "Rabri",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["milk", "sugar", "nuts", "saffron"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "sweet", "thickened milk"]
+  },
+  {
+    "id": 84,
+    "name": "Panjiri",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert", "snack"],
+    "ingredients": ["whole wheat flour", "ghee", "sugar", "nuts", "seeds"],
+    "weather_suitability": ["cold"],
+    "tags": ["winter", "healthy", "energy food"]
+  },
+  {
+    "id": 85,
+    "name": "Veg Makhanwala",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["mixed vegetables", "tomato", "cashews", "butter", "cream"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "creamy", "restaurant style"]
+  },
+  {
+    "id": 86,
+    "name": "Veg Handi",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["mixed vegetables", "yogurt", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["creamy", "curry", "restaurant style"]
+  },
+  {
+    "id": 87,
+    "name": "Paneer Pasanda",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "nuts", "khoya", "tomato", "cream"],
+    "weather_suitability": ["any"],
+    "tags": ["rich", "stuffed", "mughlai"]
+  },
+  {
+    "id": 88,
+    "name": "Aloo Methi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["potato", "fenugreek leaves", "garlic"],
+    "weather_suitability": ["cold"],
+    "tags": ["dry curry", "healthy", "winter"]
+  },
+  {
+    "id": 89,
+    "name": "Ker Sangri",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["ker", "sangri", "yogurt", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["rajasthani", "traditional", "dry curry"]
+  },
+  {
+    "id": 90,
+    "name": "Dal Baati Churma",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mixed lentils", "whole wheat flour", "ghee", "jaggery"],
+    "weather_suitability": ["any"],
+    "tags": ["rajasthani", "traditional", "complete meal"]
+  },
+  {
+    "id": 91,
+    "name": "Gobhi Matar Keema",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["cauliflower", "peas", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["minced", "dry curry", "homestyle"]
+  },
+  {
+    "id": 92,
+    "name": "Lyodur Tschaman",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "turmeric", "yogurt", "fennel"],
+    "weather_suitability": ["cold"],
+    "tags": ["kashmiri", "creamy", "yellow curry"]
+  },
+  {
+    "id": 93,
+    "name": "Nadru Yakhni",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["lotus stem", "yogurt", "cardamom", "fennel"],
+    "weather_suitability": ["cold"],
+    "tags": ["kashmiri", "creamy", "unique"]
+  },
+  {
+    "id": 94,
+    "name": "Jimikand ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["yam", "onion", "tomato", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["curry", "festival food", "diwali"]
+  },
+  {
+    "id": 95,
+    "name": "Parwal ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["pointed gourd", "potato", "onion", "tomato"],
+    "weather_suitability": ["hot"],
+    "tags": ["homestyle", "dry curry", "summer"]
+  },
+  {
+    "id": 96,
+    "name": "Mangodi ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["moong dal nuggets", "yogurt", "tomato"],
+    "weather_suitability": ["any"],
+    "tags": ["rajasthani", "curry", "no-vegetable"]
+  },
+  {
+    "id": 97,
+    "name": "Kulle ki Chaat",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["potato", "cucumber", "tomato", "pomegranate", "chickpeas"],
+    "weather_suitability": ["hot"],
+    "tags": ["street food", "delhi style", "chaat", "healthy"]
+  },
+  {
+    "id": 98,
+    "name": "Nagori Halwa",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast"],
+    "ingredients": ["semolina", "ghee", "sugar", "puri"],
+    "weather_suitability": ["cold"],
+    "tags": ["delhi style", "street food", "sweet and savory"]
+  },
+  {
+    "id": 99,
+    "name": "Tandoori Roti",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["whole wheat flour"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "tandoor", "healthy"]
+  },
+  {
+    "id": 100,
+    "name": "Kulcha",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["flour", "yogurt"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "soft", "leavened"]
+  },
+  {
+    "id": 101,
+    "name": "Bhatura",
+    "cuisine": "North Indian",
+    "meal_type": ["breakfast", "lunch"],
+    "ingredients": ["flour", "yogurt", "yeast"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "fried", "puffy"]
+  },
+  {
+    "id": 102,
+    "name": "Papdi Chaat",
+    "cuisine": "North Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["papdi", "potato", "chickpeas", "yogurt", "chutney"],
+    "weather_suitability": ["any"],
+    "tags": ["street food", "chaat", "crispy"]
+  },
+  {
+    "id": 103,
+    "name": "Shalgam Bharta",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["turnip", "onion", "tomato", "spices"],
+    "weather_suitability": ["cold"],
+    "tags": ["winter", "punjabi", "homestyle"]
+  },
+  {
+    "id": 104,
+    "name": "Paneer Angara",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["paneer", "tomato", "cashews", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["smoky", "rich", "restaurant style"]
+  },
+  {
+    "id": 105,
+    "name": "Lauki ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["bottle gourd", "tomato", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["healthy", "light", "homestyle"]
+  },
+  {
+    "id": 106,
+    "name": "Ghiya Chana Dal",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["bottle gourd", "chana dal", "onion", "tomato"],
+    "weather_suitability": ["any"],
+    "tags": ["healthy", "one-pot", "homestyle"]
+  },
+  {
+    "id": 107,
+    "name": "Tori ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["ridge gourd", "onion", "tomato", "spices"],
+    "weather_suitability": ["hot"],
+    "tags": ["healthy", "light", "summer"]
+  },
+  {
+    "id": 108,
+    "name": "Karela Fry",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["bitter gourd", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["stir-fry", "crispy", "bitter"]
+  },
+  {
+    "id": 109,
+    "name": "Jeera Rice",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["basmati rice", "cumin seeds", "ghee"],
+    "weather_suitability": ["any"],
+    "tags": ["rice", "fragrant", "accompaniment"]
+  },
+  {
+    "id": 110,
+    "name": "Hariyali Paneer Tikka",
+    "cuisine": "North Indian",
+    "meal_type": ["appetizer", "snack"],
+    "ingredients": ["paneer", "yogurt", "mint", "coriander", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["tandoori", "grill", "green"]
+  },
+  {
+    "id": 111,
+    "name": "Dahi Ke Kebab",
+    "cuisine": "North Indian",
+    "meal_type": ["appetizer"],
+    "ingredients": ["hung curd", "paneer", "gram flour", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["soft", "creamy", "kebab"]
+  },
+  {
+    "id": 112,
+    "name": "Hara Bhara Kebab",
+    "cuisine": "North Indian",
+    "meal_type": ["appetizer", "snack"],
+    "ingredients": ["spinach", "peas", "potato", "paneer"],
+    "weather_suitability": ["any"],
+    "tags": ["healthy", "kebab", "pan-fried"]
+  },
+  {
+    "id": 113,
+    "name": "Soya Chaap Masala",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["soya chaap", "onion", "tomato", "cream", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["vegetarian meat", "rich", "curry"]
+  },
+  {
+    "id": 114,
+    "name": "Pindi Chole",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["chickpeas", "tea leaves", "whole spices", "onion"],
+    "weather_suitability": ["any"],
+    "tags": ["punjabi", "dry curry", "tangy"]
+  },
+  {
+    "id": 115,
+    "name": "Sev Tamatar ki Sabzi",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["sev", "tomato", "onion", "garlic", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["rajasthani", "quick", "tangy"]
+  },
+  {
+    "id": 116,
+    "name": "Makki di Roti",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["maize flour", "ghee"],
+    "weather_suitability": ["cold"],
+    "tags": ["bread", "punjabi", "winter", "gluten-free"]
+  },
+  {
+    "id": 117,
+    "name": "Rumali Roti",
+    "cuisine": "North Indian",
+    "meal_type": ["dinner"],
+    "ingredients": ["flour", "milk"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "thin", "soft"]
+  },
+  {
+    "id": 118,
+    "name": "Laccha Paratha",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["whole wheat flour", "ghee"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "layered", "flaky"]
+  },
+  {
+    "id": 119,
+    "name": "Missi Roti",
+    "cuisine": "North Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["gram flour", "whole wheat flour", "onion", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["bread", "healthy", "punjabi"]
+  },
+  {
+    "id": 120,
+    "name": "Rasmalai",
+    "cuisine": "North Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["milk", "paneer", "sugar", "saffron", "nuts"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "spongy", "chilled"]
+  },
+  {
+    "id": 121,
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil"],
+    "weather_suitability": ["any"],
+    "tags": ["classic", "pizza", "simple"]
+  },
+  {
+    "id": 122,
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "meal_type": ["dinner"],
+    "ingredients": ["arborio rice", "mushrooms", "parmesan", "onion", "vegetable broth"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["creamy", "rice", "comfort food"]
+  },
+  {
+    "id": 123,
+    "name": "Pasta Primavera",
+    "cuisine": "Italian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["pasta", "spring vegetables", "parmesan", "garlic", "olive oil"],
+    "weather_suitability": ["hot", "any"],
+    "tags": ["pasta", "healthy", "light", "fresh"]
+  },
+  {
+    "id": 124,
+    "name": "Eggplant Parmesan",
+    "cuisine": "Italian",
+    "meal_type": ["dinner"],
+    "ingredients": ["eggplant", "tomato sauce", "mozzarella", "parmesan", "breadcrumbs"],
+    "weather_suitability": ["any"],
+    "tags": ["baked", "casserole", "comfort food"]
+  },
+  {
+    "id": 125,
+    "name": "Gnocchi with Sage Butter",
+    "cuisine": "Italian",
+    "meal_type": ["dinner"],
+    "ingredients": ["potato gnocchi", "butter", "sage", "parmesan"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["pasta", "simple", "rich"]
+  },
+  {
+    "id": 126,
+    "name": "Fettuccine Alfredo",
+    "cuisine": "Italian",
+    "meal_type": ["dinner"],
+    "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan"],
+    "weather_suitability": ["any"],
+    "tags": ["pasta", "creamy", "rich", "classic"]
+  },
+  {
+    "id": 127,
+    "name": "Bruschetta with Tomato and Basil",
+    "cuisine": "Italian",
+    "meal_type": ["appetizer", "snack"],
+    "ingredients": ["bread", "tomato", "basil", "garlic", "olive oil"],
+    "weather_suitability": ["hot", "any"],
+    "tags": ["fresh", "light", "starter"]
+  },
+  {
+    "id": 128,
+    "name": "Pesto Pasta",
+    "cuisine": "Italian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["pasta", "basil pesto", "pine nuts", "parmesan"],
+    "weather_suitability": ["any"],
+    "tags": ["pasta", "fresh", "herby", "quick"]
+  },
+  {
+    "id": 129,
+    "name": "Vegetable Lasagna",
+    "cuisine": "Italian",
+    "meal_type": ["dinner"],
+    "ingredients": ["lasagna sheets", "ricotta", "mozzarella", "tomato sauce", "mixed vegetables"],
+    "weather_suitability": ["cold", "any"],
+    "tags": ["baked", "casserole", "family meal"]
+  },
+  {
+    "id": 130,
+    "name": "Minestrone Soup",
+    "cuisine": "Italian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["mixed vegetables", "beans", "pasta", "tomato broth"],
+    "weather_suitability": ["cold", "rainy"],
+    "tags": ["soup", "healthy", "hearty"]
+  },
+  {
+    "id": 131,
+    "name": "Rava Dosa",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast", "snack"],
+    "ingredients": ["semolina", "rice flour", "onion", "green chilli", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["crispy", "instant", "dosa"]
+  },
+  {
+    "id": 132,
+    "name": "Onion Uthappam",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast", "dinner"],
+    "ingredients": ["dosa batter", "onion", "tomato", "green chilli"],
+    "weather_suitability": ["any"],
+    "tags": ["pancake", "soft", "savory"]
+  },
+  {
+    "id": 133,
+    "name": "Ven Pongal",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast"],
+    "ingredients": ["rice", "moong dal", "ghee", "black pepper", "cashews"],
+    "weather_suitability": ["any"],
+    "tags": ["comfort food", "savory", "porridge"]
+  },
+  {
+    "id": 134,
+    "name": "Bisi Bele Bath",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["rice", "toor dal", "mixed vegetables", "tamarind", "bisi bele bath powder"],
+    "weather_suitability": ["any"],
+    "tags": ["one-pot", "karnataka", "spicy"]
+  },
+  {
+    "id": 135,
+    "name": "Lemon Rice",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["rice", "lemon juice", "peanuts", "mustard seeds", "curry leaves"],
+    "weather_suitability": ["hot", "any"],
+    "tags": ["rice", "tangy", "quick", "travel food"]
+  },
+  {
+    "id": 136,
+    "name": "Tamarind Rice",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["rice", "tamarind", "peanuts", "sesame seeds", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["rice", "tangy", "spicy", "pulihora"]
+  },
+  {
+    "id": 137,
+    "name": "Curd Rice",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["rice", "yogurt", "mustard seeds", "curry leaves", "ginger"],
+    "weather_suitability": ["hot"],
+    "tags": ["cooling", "comfort food", "simple"]
+  },
+  {
+    "id": 138,
+    "name": "Avial",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["mixed vegetables", "coconut", "yogurt", "curry leaves"],
+    "weather_suitability": ["any"],
+    "tags": ["kerala", "healthy", "mixed vegetable curry"]
+  },
+  {
+    "id": 139,
+    "name": "Poriyal",
+    "cuisine": "South Indian",
+    "meal_type": ["side dish", "lunch"],
+    "ingredients": ["beans", "cabbage", "carrot", "coconut", "mustard seeds"],
+    "weather_suitability": ["any"],
+    "tags": ["stir-fry", "dry curry", "healthy"]
+  },
+  {
+    "id": 140,
+    "name": "Kootu",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch"],
+    "ingredients": ["lentils", "vegetables", "coconut", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["lentil curry", "stew", "healthy"]
+  },
+  {
+    "id": 141,
+    "name": "Rasam",
+    "cuisine": "South Indian",
+    "meal_type": ["lunch", "dinner"],
+    "ingredients": ["tomato", "tamarind", "black pepper", "garlic", "rasam powder"],
+    "weather_suitability": ["cold", "rainy"],
+    "tags": ["soup", "spicy", "digestive"]
+  },
+  {
+    "id": 142,
+    "name": "Appam and Vegetable Stew",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast", "dinner"],
+    "ingredients": ["rice flour", "coconut milk", "mixed vegetables", "spices"],
+    "weather_suitability": ["any"],
+    "tags": ["kerala", "fermented", "mild curry"]
+  },
+  {
+    "id": 143,
+    "name": "Medu Vada",
+    "cuisine": "South Indian",
+    "meal_type": ["breakfast", "snack"],
+    "ingredients": ["urad dal", "onion", "green chilli", "ginger"],
+    "weather_suitability": ["any"],
+    "tags": ["fried", "savory donut", "crispy"]
+  },
+  {
+    "id": 144,
+    "name": "Mysore Bonda",
+    "cuisine": "South Indian",
+    "meal_type": ["snack"],
+    "ingredients": ["flour", "rice flour", "yogurt", "coconut", "spices"],
+    "weather_suitability": ["rainy", "any"],
+    "tags": ["fried", "soft", "quick"]
+  },
+  {
+    "id": 145,
+    "name": "Payasam",
+    "cuisine": "South Indian",
+    "meal_type": ["dessert"],
+    "ingredients": ["milk", "vermicelli", "rice", "jaggery", "nuts"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "pudding", "festival food"]
+  },
+  {
+    "id": 146,
+    "name": "Kesari Bath",
+    "cuisine": "South Indian",
+    "meal_type": ["dessert", "breakfast"],
+    "ingredients": ["semolina", "ghee", "sugar", "saffron", "nuts"],
+    "weather_suitability": ["any"],
+    "tags": ["sweet", "pudding", "karnataka"]
+  }
+]
